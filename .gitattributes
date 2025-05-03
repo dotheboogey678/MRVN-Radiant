@@ -240,3 +240,4 @@ xonotic-osx-sdl crlf=input
 *.zip -diff -crlf
 zipdiff crlf=input
 *.zym -diff -crlf
+*.zym -diff -crlf
